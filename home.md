@@ -9,7 +9,8 @@ style="display: flex; justify-content: center; align-items:center;">
 </p>
 
 <p>
-개인적인 공간이라 내용이 부실하고 허술할 수 있습니다..<br>
+개인적인 공간이라 내용이 부실하고 허술할 수 있습니다.<br>
+혹시나 궁금한 점이 있으면 댓글 남겨주세요!<br>
 </p>
 
 <div align=left>
