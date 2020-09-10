@@ -1,5 +1,5 @@
 <div 
-style="position: absolute; display: flex; justify-content: center; align-items:center;">
+style="display: flex; justify-content: center; align-items:center;">
 <div>
 <h1>✏️ Today I Learned!</h1>
 
