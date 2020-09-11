@@ -1,7 +1,6 @@
 - **Javascript**
-  - [this](javascript/this.md)
 - **React**
+  - [성능최적화](react/performance-optimization.md)
 - **Web**
-  - [JWT](web/jwt.md)
 - **Etc**
-  - [우아한테크러닝 3기 Q&A](etc/oohah-qna.md)
+  - [우아한테크러닝 3기 Q&A](etc/oohah-tech-learning3-qna.md)
