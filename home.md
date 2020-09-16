@@ -3,12 +3,12 @@ style="display: flex; justify-content: center; align-items:center;">
 <div>
 <h1>✏️ Today I Learned!</h1>
 
-<u> 웹 프론트엔드를 개발하는 초보개발자 이장춘</u>이라고 합니다.<br>
-<del>머리가 좋지않아</del> 하루하루 배운걸 기록하기 위해 만든 공간입니다 😅
+<u> 웹 프론트엔드를 개발하는 초보개발자 이장춘</u>이라고 합니다.\
+<del>머리가 좋지않아</del> 배운걸 기록하기 위해 만든 공간입니다 😅
 
-개인적인 공간이라 내용이 부실하고 허술할 수 있습니다.<br>
-정리하여 공유할 정보들은 [개인블로그](https://ginameee.github.io)에 남길 예정입니다.<br>
-혹시나 궁금한 점이 있으면 댓글 남겨주세요!<br>
+개인적인 공간이라 내용이 부실하고 허술할 수 있습니다.\
+정리하여 공유할 정보들은 [개인블로그](https://ginameee.github.io)에 남길 예정입니다.\
+혹시나 궁금한 점이 있으면 댓글 남겨주세요!
 
 <div align=left>
 
