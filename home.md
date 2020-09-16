@@ -1,7 +1,7 @@
 <div 
 style="display: flex; justify-content: center; align-items:center;">
 <div>
-<h1>✏️ Today I Learned!</h1>
+<h1>✏️ STUDY LOGS</h1>
 
 <u> 웹 프론트엔드를 개발하는 초보개발자 이장춘</u>이라고 합니다.\
 <del>머리가 좋지않아</del> 배운걸 기록하기 위해 만든 공간입니다 😅
