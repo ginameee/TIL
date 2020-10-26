@@ -6,6 +6,8 @@
 - **Web**
 - **Etc**
   - [우아한테크러닝 3기 Q&A](etc/oohah-tech-learning3-qna.md)
+- **Linux**
+  - [명령어사전](linux/명령어사전.md)
 - **TIL**
   - [20200915](til/20200915.md)
   - [20200916](til/20200916.md)
