@@ -150,8 +150,3 @@ const TodoItem = ({ done, children, onToggle, onRemove, style }) => {
   );
 };
 ```
-
-<br>
-<br>
-<br>
-<br>
