@@ -1,6 +1,8 @@
 - **Javascript**
   - [Immer](javascript/immer.md)
-  - [Generator](javascript/generator.md)
+  - [이벤트지연](javascript/이벤트지연.md)
+  - [로깅](javascript/logging.md)
+  - [Redux](javascript/redux.md)
 - **React**
   - [성능최적화](react/performance-optimization.md)
   - [ref 사용](react/ref.md)
@@ -22,3 +24,4 @@
   - [20201019](til/20201019.md)
   - [20201022](til/20201022.md)
   - [20201026](til/20201026.md)
+  - [20201029](til/20201029.md)

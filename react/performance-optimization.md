@@ -150,3 +150,37 @@ const TodoItem = ({ done, children, onToggle, onRemove, style }) => {
   );
 };
 ```
+
+---
+
+## 코드스플리팅
+
+웹펙이(혹은 다른 번들러) 번들링을 진행할 때,
+하나의 파일이 아닌, 특정 기준으로 여러개의 파일로 나눠서 번들링을 진행하는 기법으로,\
+로딩이나 캐싱에 있어서 최대의 효율을 낼 수 있도록 하는방법이다.
+
+여러 기준으로 코드를 나눌 수 있지만,\
+자주 사용하는 방식은 로딩되는 파일을 기준으로 파일을 나누는 방식이다.\
+즉, 동적로딩을 통한 코드스플리팅이다.
+
+webpack 제공하는 import 함수를 이용해서, 동적으로 파일을 import 한다. <br>
+동적으로 import되는 파일은 호출하는 시점에 request 하게 된다.
+
+```javascript
+import("./notify").then((result) => {
+  // export default는 result.default를 참조한다.
+  result.default();
+});
+```
+
+### React에서 컴포넌트 동적 로딩 하는 법
+
+동적으로 import한 컴포넌트를 state에 저장한다. <br>
+단점) 매번 컴포넌트를 저장할 state를 선언해주어야 한다.
+
+```js
+class App extends React.Component {
+  state = {
+    SplitMe: null,
+  };
+```
