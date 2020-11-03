@@ -8,12 +8,11 @@
 ### 설치
 
 ```
-> npm i -g docsify
+> npm install
 ```
 
 ### 실행
 
 ```
-> cd {clone경로}
-> docsify serve
+> npm run dev
 ```
