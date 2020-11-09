@@ -9,6 +9,8 @@
 - **Web**
 - **Etc**
   - [우아한테크러닝 3기 Q&A](etc/oohah-tech-learning3-qna.md)
+- **Git**
+  - [명령어사전](git/명령어사전.md)
 - **Linux**
   - [명령어사전](linux/명령어사전.md)
 - **TIL**
