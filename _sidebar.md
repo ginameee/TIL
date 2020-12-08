@@ -7,8 +7,17 @@
   - [성능최적화](react/performance-optimization.md)
   - [ref 사용](react/ref.md)
 - **Web**
+  - [Mixed contents]()
+  - [CORS]()
+- **CSS**
+  - [속성사전](css/속성사전.md)
+- **Refactoring**
+
+  - [개요](refactoring/개요.md)
+
 - **Etc**
   - [우아한테크러닝 3기 Q&A](etc/oohah-tech-learning3-qna.md)
+  - [W스타일 프로젝트 복기](etc/wstyle_review.md)
 - **Git**
   - [명령어사전](git/명령어사전.md)
 - **Linux**
@@ -30,3 +39,7 @@
   - [20201101](til/20201101.md)
   - [20201103](til/20201103.md)
   - [20201106](til/20201106.md)
+  - [20201115](til/20201115.md)
+  - [20201124](til/20201124.md)
+  - [20201130](til/20201130.md)
+  - [20201201](til/20201201.md)
