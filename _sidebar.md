@@ -1,3 +1,12 @@
+- **Web**
+  - [Mixed contents]()
+  - [CORS]()
+- **HTML**
+  - [Data Attribute](html/data-attribute.md)
+- **CSS**
+  - [속성사전](css/속성사전.md)
+  - [Animation](css/animation.md)
+  - [변수](css/variables.md)
 - **Javascript**
   - [Immer](javascript/immer.md)
   - [이벤트지연](javascript/이벤트지연.md)
@@ -6,11 +15,6 @@
 - **React**
   - [성능최적화](react/performance-optimization.md)
   - [ref 사용](react/ref.md)
-- **Web**
-  - [Mixed contents]()
-  - [CORS]()
-- **CSS**
-  - [속성사전](css/속성사전.md)
 - **Refactoring**
 
   - [개요](refactoring/개요.md)
