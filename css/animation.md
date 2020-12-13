@@ -17,6 +17,8 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/transition \
 
 > trasition: ${transition\_먹일\_css속성} ${시간} ${변화형태}
 
+**_ transition은 반드시 state가 없는 selector에 적용시켜준다. _**
+
 - `${transition\_먹일\_css속성}`은 여러개 나열 가능하다 혹은 `all`값으로 모든 css property를 대상으로 할 수 있다.
 - `${초}`는 `2s`와 같은 형태로 입력 (250~300ms 가 사용자가 느끼기에 가장 보기 편안한 값)
 - `${변화형태}`는 변화가 진행될 형태를 의미한다.
