@@ -1,6 +1,6 @@
 - **Web**
   - [Mixed contents](posts/)
-  - [CORS](posts/)
+  - [CORS](posts/web/cors.md)
 - **HTML**
   - [Data Attribute](posts/html/data-attribute.md)
   - [HTML, XHTML, HTML5](posts/html/html-xhtml-html5.md)
@@ -25,6 +25,9 @@
   - [개요](posts/webpack/개요.md)
 - **Refactoring**
   - [개요](posts/refactoring/개요.md)
+  - [문제점과 개선방안](posts/refactoring/문제점과_개선방안.md)
+  - [리팩토링 사전](posts/refactoring/리팩토링_사전.md)
+  - [테스트](posts/refactoring/테스트.md)
 - **Etc**
   - [Glob 패턴](posts/etc/Glob-패턴.md)
   - [우아한테크러닝 3기 Q&A](posts/etc/oohah-tech-learning3-qna.md)
