@@ -8,7 +8,7 @@
 ### 설치
 
 ```
-> npm i docsify-cli -g
+> npm install
 ```
 
 ### 실행

@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ginameee/study-note/issues"
   },
-  "homepage": "https://github.com/ginameee/study-note#readme"
+  "homepage": "https://github.com/ginameee/study-note#readme",
+  "dependencies": {
+    "docsify-cli": "^4.4.2"
+  }
 }
