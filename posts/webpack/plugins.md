@@ -49,3 +49,46 @@ module.exports = {
     ...
 }
 ```
+
+## CopyWebpackPlugin
+
+https://webpack.js.org/plugins/copy-webpack-plugin/
+
+output.path 경로에 지정한 파일들을 복사해준다.
+
+토이프로젝트를 진행하면서 필요한 플러그인이었다.
+
+필요했던 이유는,\
+우리는 img나 css와 같은 정적자원들을 별도의 정적 서버나 cdn 에 저장하지 않고,\
+번들링된 js 파일과 같은 위치에 저장하고, 상용서버에 dist (=output.path)을 통째로 올릴 생각이었다.
+
+이를 위해선,
+src에 사용하고 있는 assets(정적리소스들)을 빌드시에 함께 dist에 copy해서 넣어야했다.
+
+```shell
+> npm i -D copy-webpack-plugin
+```
+
+```js
+...
+const srcPath = require('path').resolve(__dirname, 'src');
+const distPath = require('path').resolve(__dirname, 'dist');
+const CopyPlugin = require("copy-webpack-plugin");
+
+...
+module.exports = {
+    ...
+    plugins: [
+            new CopyPlugin({
+                patterns: [
+                    /**
+                     * to의 publicPath는 distPath(=output.path) 다.
+                     * cp __dirname/src/assets __dirname/dist/assets
+                     */
+                    { from: path.resolve(srcPath, 'assets'), to: 'assets' }
+                ],
+            }),
+        ],
+    ...
+}
+```
