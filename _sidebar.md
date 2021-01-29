@@ -32,6 +32,8 @@
   - [plugins](posts/webpack/plugins.md)
   - [devServer](posts/webpack/devServer.md)
   - [publicPath](posts/webpack/publicPath.md)
+  - [환경변수](posts/webpack/환경변수.md)
+  - [에러사전](posts/webpack/에러사전.md)
 - **Refactoring**
   - [개요](posts/refactoring/개요.md)
   - [문제점과 개선방안](posts/refactoring/문제점과_개선방안.md)

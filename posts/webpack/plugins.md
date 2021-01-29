@@ -25,7 +25,7 @@ html 파일을 `output.path` 경로에 생성되며,\
 - favicon 추가
 - body에 html 코드 추가
 
-와 같은 내용의 추가 작업은 HtmlWebpackPlugin 플러그인의 옵션을 통해서 이루어진다.
+와 같은 내용의 추가 작업은 HtmlWebpackPlugin 플러그인의 옵션을 통해서 이루어진다.\
 각 옵션값으로도 가능하지만, 제일편한건 html파일을 만들어놓고 `template`으로 사용하는 것이다.
 
 template option을 사용하면,\
