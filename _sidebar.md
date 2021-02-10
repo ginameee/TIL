@@ -49,6 +49,9 @@
   - [명령어사전](posts/linux/명령어사전.md)
 - **ESLint**
   - [환경설정](posts/eslint/환경설정.md)
+- **NPM**
+  - [npmrc](posts/npm/npmrc.md)
+  - [Package Types](posts/npm/package_types.md)
 - **TIL**
   - [20200915](posts/til/20200915.md)
   - [20200916](posts/til/20200916.md)
