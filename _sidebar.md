@@ -6,6 +6,7 @@
   - [Data Attribute](posts/html/data-attribute.md)
   - [HTML, XHTML, HTML5](posts/html/html-xhtml-html5.md)
   - [img](posts/html/img.md)
+  - [link](posts/html/link.md)
 - **CSS**
   - [속성사전](posts/css/속성사전.md)
   - [BEM](posts/css/bem.md)
